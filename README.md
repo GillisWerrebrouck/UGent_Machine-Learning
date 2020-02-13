@@ -1,1 +1,1 @@
-# UGent_Machine-Learning
+# UGent Machine Learning
